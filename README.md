@@ -1,1 +1,1 @@
-# Hello-app-docke-k8e-GCP
+# Hello-app-dockre-k8s-GCP
